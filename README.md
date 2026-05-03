@@ -7,12 +7,12 @@ Track income, expenses, and transfers across multiple accounts and currencies 鈥
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/Finit _ Overview.jpeg" alt="Dashboard overview" width="48%" />
-  <img src="screenshots/Finit _ Overview 路 1.38am 路 05-04.jpeg" alt="Overview detail" width="48%" />
+  <img src="screenshots/dashboard.jpeg" alt="Dashboard overview" width="48%" />
+  <img src="screenshots/dashboard-accounts.jpeg" alt="Accounts" width="48%" />
 </p>
 <p align="center">
-  <img src="screenshots/Finit _ Overview 路 1.38am 路 05-04 (1).jpeg" alt="Overview panel" width="48%" />
-  <img src="screenshots/Finit _ Overview 路 1.39am 路 05-04.jpeg" alt="Overview transactions" width="48%" />
+  <img src="screenshots/dashboard-transactions.jpeg" alt="Transactions" width="48%" />
+  <img src="screenshots/dashboard-summary.jpeg" alt="Summary" width="48%" />
 </p>
 
 ## Features
