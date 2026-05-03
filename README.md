@@ -4,6 +4,17 @@ A minimal personal finance management PWA built with Next.js, MongoDB, and TypeS
 
 Track income, expenses, and transfers across multiple accounts and currencies — from the browser or via a scoped REST API for automation.
 
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/Finit _ Overview.jpeg" alt="Dashboard overview" width="48%" />
+  <img src="screenshots/Finit _ Overview · 1.38am · 05-04.jpeg" alt="Overview detail" width="48%" />
+</p>
+<p align="center">
+  <img src="screenshots/Finit _ Overview · 1.38am · 05-04 (1).jpeg" alt="Overview panel" width="48%" />
+  <img src="screenshots/Finit _ Overview · 1.39am · 05-04.jpeg" alt="Overview transactions" width="48%" />
+</p>
+
 ## Features
 
 - **Multi-account support** — cash, bank, card, wallet, and more
