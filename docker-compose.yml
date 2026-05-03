@@ -1,4 +1,19 @@
 services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: finit-app
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    environment:
+      NODE_ENV: production
+      MONGODB_URI: mongodb://finit:finit_dev_password@mongodb:27017/finit?authSource=admin
+    depends_on:
+      mongodb:
+        condition: service_healthy
+
   mongodb:
     image: mongo:7
     container_name: finit-mongodb

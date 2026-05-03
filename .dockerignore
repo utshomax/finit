@@ -1,0 +1,26 @@
+.git
+.gitignore
+.env*
+!.env.example
+
+# Dependencies
+node_modules
+
+# Next.js build output
+.next
+out
+
+# Docker files
+Dockerfile
+.dockerignore
+docker-compose.yml
+
+# Misc
+.DS_Store
+*.log
+npm-debug.log*
+
+# Docs & plans
+README.md
+docs/
+plans/
